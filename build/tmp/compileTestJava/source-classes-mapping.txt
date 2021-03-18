@@ -1,2 +1,0 @@
-com/tools/apirestredis/ApiRestRedisApplicationTests.java
- com.tools.apirestredis.ApiRestRedisApplicationTests
